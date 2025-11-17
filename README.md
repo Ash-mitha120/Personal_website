@@ -6,7 +6,7 @@ Welcome to my personal website! This is a responsive portfolio built using **HTM
 
 - 📄 **About Me** section
 - 🛠️ **Projects** showcase with descriptions and images
-- 🧑‍💼 **Internships** section with details and links
+- 🧑‍💼 **Internships and Research Work** section with details and links
 - 💡 **Skills** display with animated progress bars
 - 📬 **Contact** form section
 - 📱 Fully responsive on all devices
